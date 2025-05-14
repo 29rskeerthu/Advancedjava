@@ -3,3 +3,5 @@
 [colorsearch]->(https://github.com/29rskeerthu/Advancedjava/blob/main/Screenshot%202025-05-14%20152629.png)
 
 [Removecolors]->(https://github.com/29rskeerthu/Advancedjava/blob/main/Screenshot%202025-05-14%20152718.png)
+
+[sortcolors]->(https://github.com/29rskeerthu/Advancedjava/blob/main/Screenshot%202025-05-14%20152736.png)
