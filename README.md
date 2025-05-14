@@ -7,3 +7,5 @@
 [sortcolors]->(https://github.com/29rskeerthu/Advancedjava/blob/main/Screenshot%202025-05-14%20152736.png)
 
 [sublistcolors]->(https://github.com/29rskeerthu/Advancedjava/blob/main/Screenshot%202025-05-14%20152749.png)
+
+[removenthcolors]->(https://github.com/29rskeerthu/Advancedjava/blob/main/Screenshot%202025-05-14%20152808.png)
